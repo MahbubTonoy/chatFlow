@@ -1,0 +1,27 @@
+.header{
+    background-color: rgb(219, 245, 255);
+}
+.logodiv{
+    margin: 35px 0px 0px 15px;
+    float:left;
+}
+.loginform{
+    margin: 15px;
+    float:right;
+}
+.middle{
+    padding-top: 20px;
+}
+.footer{
+    padding-top: 10px;
+    background-color:rgb(34, 34, 39);
+    color: #ffffff;
+    text-align: center;
+    height: 80px;
+}
+.my-nav-menu{
+    background-color: #DBF5FF;
+}
+.dis-profiles{
+    padding: 20px;
+}
